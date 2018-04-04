@@ -1,0 +1,33 @@
+figure.graf.graf--figure.graf--iframe.graf-after--figure,
+figure.graf.graf--figure.graf--iframe.graf-after--h4.graf--trailing {
+    position: fixed;
+    top: 40vh;
+    right: 0px;
+    height: 335px;
+    width: 220px;
+    margin: 0;
+    padding: 0;
+    z-index: 1001;
+    border-radius: 13px 0 0 13px;
+}
+
+figure.graf.graf--figure.graf--iframe.graf-after--figure.graf--trailing {
+    position: inherit;
+    top: inherit;
+    right: inherit;
+    height: inherit;
+    width: inherit;
+    margin: inherit;
+    padding: inherit;
+    z-index: inherit;
+}
+
+.aspectRatioPlaceholder {
+    height: 100%;
+}
+
+iframe{
+    border-radius: 13px 0 0 13px;
+    border: 0px solid #fff;
+    opacity: 0.9;
+}
